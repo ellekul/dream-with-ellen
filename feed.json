@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Dream Big with Ellen",
+    "description": "",
+    "home_page_url": "https://ellekul.github.io/dream-with-ellen",
+    "feed_url": "https://ellekul.github.io/dream-with-ellen/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ellen Kulinsky"
+    },
+    "items": [
+    ]
+}
